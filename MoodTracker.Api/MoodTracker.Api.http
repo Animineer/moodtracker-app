@@ -1,0 +1,6 @@
+@MoodTracker.Api_HostAddress = http://localhost:5105
+
+GET {{MoodTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
